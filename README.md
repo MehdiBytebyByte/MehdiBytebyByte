@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 I'm a passionate student at [42 Network](https://42.fr/), focused on IT architecture, systems programming, and automation.  
-Driven by curiosity and a love for solving hard problems, I specialize in **C, C++, and Bash scripting**.  
+i code in **C, C++, and Bash scripting**.  
 Always seeking to learn, improve, and build robust solutions.
 
 ---
