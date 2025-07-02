@@ -22,49 +22,10 @@ Always seeking to learn, improve, and build robust solutions.
 - **Systems:** Linux, Shell scripting, Git, Docker
 - **Concepts:** Algorithms, Data Structures, Networking, OS internals, Security basics
 - **Soft Skills:** Teamwork, Problem-solving, Persistence
-
----
-
-## 🏆 Highlights
-
-- 🌟 42 Projects: [ft_printf](https://github.com/MehdiBytebyByte/ft_printf), [minishell](https://github.com/MehdiBytebyByte/minishell), [push_swap](https://github.com/MehdiBytebyByte/push_swap)
-- 🔧 Contributed to open source
 - 🏅 Passion for code optimization and clean architecture
 - 🚀 Always open to new challenges and collaborations
 
----
 
-## 📂 Top Projects
-
-| Project      | Description                             | Tech      |
-| ------------ | --------------------------------------- | --------- |
-| [minishell](https://github.com/MehdiBytebyByte/minishell) | Bash-like shell from scratch           | C, Bash   |
-| [ft_printf](https://github.com/MehdiBytebyByte/ft_printf) | Custom printf implementation           | C         |
-| [push_swap](https://github.com/MehdiBytebyByte/push_swap) | Sorting algorithm visualizer           | C         |
-| ...          | ...                                     | ...       |
-
----
-
-## 🔍 Currently Improving
-
-- Advanced C++ and design patterns
-- DevOps fundamentals (Docker, CI/CD)
-- Contributing more to open source
-
----
-
-## 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-link/)
-- [42 Profile](https://profile.intra.42.fr/users/your-username)
-- Email: your.email@example.com
-
----
-
-## ✨ Fun Fact
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
-
-_Always learning. Always building. Let's connect and create something amazing!_
